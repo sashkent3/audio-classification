@@ -1,6 +1,7 @@
 # audio-classification
 A small project to classify voice recordings by sex
 # Installation
+It's recommended to use python3.9.
 ## Dependecies
 `python3 -m pip install torch torchaudio scipy numpy sounddevice`
 ## Clone
